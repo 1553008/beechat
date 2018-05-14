@@ -1,0 +1,15 @@
+.form {
+  max-width: 500px;
+  min-width: 300px;
+  width: 500px;
+  border: 1px solid;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  margin: 0 auto;
+  transform: translateY(-50%);
+  left: 0;
+  right: 0;
+  top: 40%;
+  position: absolute;
+}
