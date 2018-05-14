@@ -5,6 +5,7 @@ import "./App.css";
 import SignupPage from "./components/SignupPage/SignupPage";
 import { Layout, Menu } from "antd";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import reduceReducers from "reduce-reducers";
 const { Header, Footer, Content } = Layout;
 class App extends Component {
   render() {
